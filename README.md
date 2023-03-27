@@ -30,4 +30,4 @@
 
 ## 📬 Contacts
 <a href =https://right-song-9b4.notion.site/9a723a2c01184e7f83c2f7c54281e388><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white%22/%3E"></a> <br>
-[![Naver Badge](https://img.shields.io/badge/qkrkyungals@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ssw971125@naver.com)](mailto:ssw971125@naver.com)
+[![Naver Badge](https://img.shields.io/badge/qkrkyungals@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:qkrkyungals@naver.com)](mailto:qkrkyungals@naver.com)
