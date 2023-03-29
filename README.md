@@ -1,4 +1,4 @@
-## 📚 STACKS
+## STACKS
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -19,11 +19,11 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
 
-## 🙋‍♂️ Experience
+## Experience
 <h3> 대전 아이티스쿨 정보보호 교육원
 [자바(JAVA)기반 웹&앱 개발자 양성] </h1>
 <p>2022.10 – 2023.03</p>
 
-## 📬 Contacts
+## Contacts
 <a href =https://right-song-9b4.notion.site/9a723a2c01184e7f83c2f7c54281e388><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white%22/%3E"></a> <br>
 [![Naver Badge](https://img.shields.io/badge/qkrkyungals@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:qkrkyungals@naver.com)](mailto:qkrkyungals@naver.com)
